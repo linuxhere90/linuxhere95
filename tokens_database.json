@@ -22,6 +22,17 @@
       "usedCount": 0,
       "usedBy": [],
       "status": "active"
+    },
+    {
+      "id": "token_1762899251591_vuc72xkv8",
+      "token": "INVITE_n4C3i5IDyAAIhfgM",
+      "createdBy": "@linuxhere2",
+      "createdAt": "2025-11-11T22:14:11.591Z",
+      "expiresAt": "2025-11-12T22:14:11.592Z",
+      "maxUsage": 1,
+      "usedCount": 0,
+      "usedBy": [],
+      "status": "active"
     }
   ],
   "revoked_tokens": [],
@@ -31,10 +42,10 @@
     "auto_cleanup": true
   },
   "statistics": {
-    "total_created": 2,
+    "total_created": 3,
     "total_active": 0,
     "total_revoked": 0,
     "last_cleanup": null
   },
-  "lastUpdate": "2025-11-11T22:14:04.088Z"
+  "lastUpdate": "2025-11-11T22:14:11.592Z"
 }
