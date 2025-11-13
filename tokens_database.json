@@ -10,7 +10,7 @@
       "maxUsage": 1,
       "usedCount": 0,
       "usedBy": [],
-      "status": "active"
+      "status": "expired"
     },
     {
       "id": "token_1762899244088_p1wglw5sj",
@@ -21,7 +21,7 @@
       "maxUsage": 1,
       "usedCount": 0,
       "usedBy": [],
-      "status": "active"
+      "status": "expired"
     },
     {
       "id": "token_1762899251591_vuc72xkv8",
@@ -32,7 +32,7 @@
       "maxUsage": 1,
       "usedCount": 0,
       "usedBy": [],
-      "status": "active"
+      "status": "expired"
     }
   ],
   "revoked_tokens": [],
@@ -45,7 +45,7 @@
     "total_created": 3,
     "total_active": 0,
     "total_revoked": 0,
-    "last_cleanup": null
+    "last_cleanup": "2025-11-13T21:49:01.773Z"
   },
-  "lastUpdate": "2025-11-11T22:14:11.592Z"
+  "lastUpdate": "2025-11-13T21:49:01.773Z"
 }
